@@ -1,4 +1,4 @@
-# cobol-sample
+# COBOL CSV Reader
 Sample COBOL program to process a CSV file
 
 References:
